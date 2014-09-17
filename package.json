@@ -1,0 +1,25 @@
+{
+  "name": "simple-crypt",
+  "version": "0.0.1",
+  "description": "simply encrypt and decrypt things",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagivo/accept-bitcoin"
+  },
+  "keywords": [
+    "node",
+    "encrypt",
+    "dycrypt"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "author": "sagiv ofek",
+  "license": {
+    "type": "MIT",
+    "url": "http://github.com/assaf/zombie/blob/master/MIT-LICENSE"
+  },
+  "dependencies": {
+  }
+}

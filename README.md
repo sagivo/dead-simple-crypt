@@ -19,7 +19,7 @@ Load AC and you're ready to go!
 var deadSimpleCrypt = require('dead-simple-crypt');
 ```
 
-Examples
+###Examples
 
 ```javascript
 var plain = "I see dead people!";

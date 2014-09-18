@@ -14,7 +14,7 @@ Simply install via [npm](https://npmjs.org/):
 ```javascript
 npm install simple-crypt
 ```
-Load AC and you're ready to go!
+Load it and you're ready to go!
 ```javascript
 var deadSimpleCrypt = require('dead-simple-crypt');
 ```

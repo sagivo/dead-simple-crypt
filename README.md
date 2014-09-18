@@ -30,7 +30,7 @@ deadSimpleCrypt.decrypt(blob); //back to original string
 
 or, with optional password:
 ```javascript
-pass = 'some password'
+pass = 'some password';
 var plain = "I see dead people!"; 
 var blob = deadSimpleCrypt.encrypt(plain, pass); //your encrypted string
 deadSimpleCrypt.decrypt(blob, pass); //back to original string

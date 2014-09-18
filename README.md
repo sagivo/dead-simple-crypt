@@ -19,9 +19,8 @@ Load AC and you're ready to go!
 var deadSimpleCrypt = require('dead-simple-crypt');
 ```
 
-Than simply use
+Examples
 
-Examples are provided [here](https://github.com/sagivo/accept-bitcoin/tree/master/examples)
 ```javascript
 var plain = "I see dead people!";
 var blob = deadSimpleCrypt.encrypt(plain); //your encrypted string

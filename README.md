@@ -1,6 +1,6 @@
-#Simple Crypt
+#Dead Simple Crypt
 
-simple. fast. light
+dead simple. fast. light
 
   - No need for heavy libraries.
   - Simple to use.
@@ -16,8 +16,8 @@ npm install simple-crypt
 ```
 Load AC and you're ready to go!
 ```javascript
-var simpleCrypt = require('simple-crypt');
-var sc = new simpleCrypt('ENTER_A_PASSWORD_TO_GENERATE_CRYPTION');
+var deadSimpleCrypt = require('dead-simple-crypt');
+var sc = new deadSimpleCrypt('ENTER_A_PASSWORD_TO_GENERATE_CRYPTION');
 ```
 
 Than simply use
@@ -25,7 +25,7 @@ Than simply use
 Examples are provided [here](https://github.com/sagivo/accept-bitcoin/tree/master/examples)
 ```javascript
 var plain = "I see dead people!";
-var blob = sc.encrypt(plain); //your encrypted string
+var blob = dsc.encrypt(plain); //your encrypted string
 sc.decrypt(blob); //back to original string
 ```
 

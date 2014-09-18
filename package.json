@@ -1,5 +1,5 @@
 {
-  "name": "simple-crypt",
+  "name": "dead-simple-crypt",
   "version": "0.0.1",
   "description": "simply encrypt and decrypt things",
   "main": "index.js",
@@ -9,6 +9,9 @@
   },
   "keywords": [
     "node",
+    "dead-simple-crypt",
+    "dead-simple",
+    "simple-crypt",
     "encrypt",
     "dycrypt"
   ],

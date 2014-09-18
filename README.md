@@ -17,7 +17,7 @@ npm install simple-crypt
 Load AC and you're ready to go!
 ```javascript
 var deadSimpleCrypt = require('dead-simple-crypt');
-var sc = new deadSimpleCrypt('ENTER_A_PASSWORD_TO_GENERATE_CRYPTION');
+var dsc = new deadSimpleCrypt('ENTER_A_PASSWORD_TO_GENERATE_CRYPTION');
 ```
 
 Than simply use

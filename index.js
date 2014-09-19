@@ -1,6 +1,6 @@
 (function() {
   var crypto = require('crypto');
-  var default_pass = 'some_password';
+  var default_pass = 'ENTER_YOUR_DEFAULT_PASSWORD';
 
   module.exports = {
     encrypt: function(text, pass) {

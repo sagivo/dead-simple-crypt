@@ -5,7 +5,7 @@ dead simple. fast. light
   - No need for heavy libraries. Using aes-256-cbc protocol. 
   - Simple to use.
   - Customize it easily. 
-  - Only 2 methodes `encrypt(string, optionalPass)` and `dencrypt(string, optionalPass)`
+  - Only 2 methodes `encrypt(string, optionalPass)` and `decrypt(string, optionalPass)`
 
 
 ##Get Started

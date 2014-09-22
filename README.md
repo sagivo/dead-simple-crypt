@@ -1,6 +1,6 @@
 #Dead Simple Crypt
 
-dead simple. fast. light
+dead simple. fast. light  
 
   - No need for heavy libraries. Using aes-256-cbc protocol. 
   - Simple to use.

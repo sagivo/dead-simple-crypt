@@ -13,7 +13,7 @@ dead simple. fast. light
 Simply install via [npm](https://npmjs.org/):
 
 ```javascript
-npm install simple-crypt
+npm install dead-simple-crypt
 ```
 Load it and you're ready to go!
 ```javascript

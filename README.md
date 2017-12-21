@@ -40,7 +40,7 @@ deadSimpleCrypt.decrypt(blob, pass); //back to original string
 ## Disclosure
 This is best for simple use needs. In case you need more complicate solution do your research before.  
 
-##Contribute
+## Contribute
 Please do. Fork it, star it, share it and add your code to the project. Help others.  
 
 ## License

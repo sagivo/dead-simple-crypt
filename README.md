@@ -1,4 +1,4 @@
-#Dead Simple Crypt
+# Dead Simple Crypt
 
 dead simple. fast. light  
 
@@ -8,7 +8,7 @@ dead simple. fast. light
   - Only 2 methodes `encrypt(string, optionalPass)` and `decrypt(string, optionalPass)`
 
 
-##Get Started
+## Get Started
 
 Simply install via [npm](https://npmjs.org/):
 
@@ -20,7 +20,7 @@ Load it and you're ready to go!
 var deadSimpleCrypt = require('dead-simple-crypt');
 ```
 
-##Examples
+## Examples
 
 ```javascript
 var plain = "I see dead people!";
@@ -37,11 +37,11 @@ deadSimpleCrypt.decrypt(blob, pass); //back to original string
 ```
 
 
-##Disclosure
+## Disclosure
 This is best for simple use needs. In case you need more complicate solution do your research before.  
 
 ##Contribute
 Please do. Fork it, star it, share it and add your code to the project. Help others.  
 
-##License
+## License
 MIT
